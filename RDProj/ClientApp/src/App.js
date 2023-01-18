@@ -1,3 +1,5 @@
+import "bootstrap/dist/css/bootstrap.css"
+import "font-awesome/css/font-awesome.css"
 import React, { Component } from 'react';
 import { Route, Routes } from 'react-router-dom';
 import AppRoutes from './AppRoutes';
